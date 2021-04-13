@@ -14,8 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-LacalleC&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Edu-LacalleC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Lacalle&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Edu-Lacalle&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **Eduardo Lacalle/Eduardo Lacalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
